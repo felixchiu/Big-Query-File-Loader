@@ -18,3 +18,8 @@ pip install google-cloud
 pip install google-cloud-storage
 pip install --upgrade google-cloud-bigquery
 ```
+
+## Usage
+```bash
+run.py -i <inputfile> -o <outputfile>
+```
