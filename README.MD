@@ -23,3 +23,7 @@ pip install --upgrade google-cloud-bigquery
 ```bash
 run.py -i <inputfile> -o <outputfile>
 ```
+
+## Reference
+* https://cloud.google.com/bigquery/docs/quickstarts/quickstart-client-libraries
+* https://cloud.google.com/bigquery/docs/quickstarts/quickstart-command-line
